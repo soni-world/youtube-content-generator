@@ -1,0 +1,54 @@
+# ============================================
+#  YOUTUBE VIDEO — FILL THIS BEFORE GENERATING
+# ============================================
+#  Just fill the 4 REQUIRED fields below,
+#  then tell Claude: "generate"
+# ============================================
+
+
+# ===== REQUIRED (must fill all 4) =====
+
+game_name: "plonky"
+# What game? Example: "Minecraft", "Roblox", "Fortnite", "Mario Kart"
+
+what_happened: "she cleared level 2 but she coudnt complete"
+# 1-2 sentences about the video. Example:
+# "Brother tried to build a house but it kept falling and sister had to rescue him"
+
+funny_moment: "she named it chompki"
+# The funniest/most shareable moment. Example:
+# "Brother screamed so loud when a creeper blew up his house"
+
+who_won_or_result: "lost"
+# How did it end? Example:
+# "Sister won but brother demands a rematch"
+
+
+# ===== OPTIONAL (fill any that apply, delete or leave blank if not) =====
+
+video_type: "gameplay"
+# Options: gameplay | challenge | first-time | tutorial | reaction | compilation | story-mode
+
+boy_name: ""
+# Real name or nickname for the 6yr old boy (default: "Little Bro")
+
+girl_name: ""
+# Real name or nickname for the 9yr old girl (default: "Big Sis")
+
+is_trending_game: false
+# Set to true if this is a brand new or currently viral game
+
+series_name: ""
+# If part of a series. Example: "Can We Beat It? Ep.3"
+
+collab_or_guest: ""
+# Anyone else in the video? Example: "Dad joins in", "Friend visits"
+
+timestamps:
+  # Fill with actual timestamps if you have them. Otherwise leave blank — Claude will generate placeholders.
+  # - "0:00 Intro"
+  # - "0:45 Something happens"
+  # - "2:00 The funny part"
+
+video_length_minutes: 0
+# Approximate video length in minutes (helps optimize description)
